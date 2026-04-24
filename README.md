@@ -53,7 +53,7 @@ If you find this code useful, please cite the corresponding paper.
 @article{inmoe2026,
   title   = {InMoE: Interaction-Aware Graph Mixture of Experts for Trajectory Prediction},
   author  = {Anonymous},
-  journal = {Pattern Recognition},
+  journal = {},
   year    = {2026}
 }
 ```
